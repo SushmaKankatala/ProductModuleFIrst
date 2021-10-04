@@ -1,0 +1,21 @@
+2021-10-04 16:31:12,096 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://127.0.0.1:45100
+2021-10-04 16:31:12,129 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://127.0.0.1:45100
+2021-10-04 16:31:12,138 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-04 16:31:12,138 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-04 16:31:12,143 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-04 16:31:12,143 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-04 16:31:12,149 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\ProductModuleFIrst-main\ProductModuleFIrst-main\ProductFirstModule
+2021-10-04 16:31:12,150 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\ProductModuleFIrst-main\ProductModuleFIrst-main\ProductFirstModule
+2021-10-04 16:32:57,758 [11] INFO ProductFirstModule.Controller.ProductMicroServicesController - Logger initiated
+2021-10-04 16:34:50,768 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://127.0.0.1:34503
+2021-10-04 16:34:50,779 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://127.0.0.1:34503
+2021-10-04 16:34:50,780 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-04 16:34:50,780 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-04 16:34:50,780 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-04 16:34:50,780 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-04 16:34:50,780 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\ProductModuleFIrst-main\ProductModuleFIrst-main\ProductFirstModule
+2021-10-04 16:34:50,780 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS\ProductModuleFIrst-main\ProductModuleFIrst-main\ProductFirstModule
+2021-10-04 16:35:26,882 [8] INFO ProductFirstModule.Controller.ProductMicroServicesController - Logger initiated
+2021-10-04 16:36:49,739 [21] INFO ProductFirstModule.Controller.ProductMicroServicesController - Rating Added Successfully
+2021-10-04 16:39:02,353 [27] INFO ProductFirstModule.Controller.ProductMicroServicesController - Logger initiated
+2021-10-04 16:39:07,382 [24] INFO ProductFirstModule.Controller.ProductMicroServicesController - Rating Added Successfully

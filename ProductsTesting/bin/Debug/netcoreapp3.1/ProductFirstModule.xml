@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProductFirstModule</name>
+    </assembly>
+    <members>
+        <member name="M:ProductFirstModule.Controller.ProductMicroServicesController.SearchProductById(System.Int32)">
+            <summary>
+            Search Product by Id
+            </summary>
+            <return>
+            Returns Product Details by ID
+            </return>
+            <remarks>
+            Sample request
+            GET /api/ProductMicroServices
+            
+            </remarks>
+            <response code="200">Returns Product Details by ID</response>
+        </member>
+        <member name="M:ProductFirstModule.Controller.ProductMicroServicesController.GetProducts">
+            <summary>
+            List of all Products
+            </summary>
+            <return>
+            Returns List of all products
+            </return>
+            <remarks>
+            Sample request
+            GET /api/ProductMicroServices
+            
+            </remarks>
+            <response code="200">Returns List of all products</response>
+        </member>
+        <member name="M:ProductFirstModule.Controller.ProductMicroServicesController.SearchProductByName(System.String)">
+            <summary>
+            Search Product by Name
+            </summary>
+            <return>
+            Returns List of Product Details by Name
+            </return>
+            <remarks>
+            Sample request
+            GET /api/ProductMicroServices
+            
+            </remarks>
+            <response code="200">Returns Product Details by Name</response>
+        </member>
+        <member name="M:ProductFirstModule.Controller.ProductMicroServicesController.AddProductRating(ProductFirstModule.Database.Entities.Rating)">
+            <summary>
+            Add Rating to Product
+            </summary>
+            <return>
+            Returns average rating
+            </return>
+            <remarks>
+            Sample request
+            POST / api/ProductMicroServices
+            
+            </remarks>
+            <response code="201">Successfully added rating to a product</response>
+        </member>
+    </members>
+</doc>
